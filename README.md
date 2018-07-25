@@ -17,7 +17,7 @@ http://monsite/myAdmin/modules.php?set=modules_boxes
 
 Activate the module in Design / Layout / left & Right
 
-Link market place : https://www.clicshopping.org/forum/files/file/46-modules-boxes-login/
+Link market place : https://www.clicshopping.org/forum/files/file/54-modules-boxes-login/
 
 See forum for all informations
 
