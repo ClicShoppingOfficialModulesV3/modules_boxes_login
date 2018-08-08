@@ -1,7 +1,7 @@
 {
   "title":			"modules_boxes_login",
   "type":       "boxe",
-  "vendor":			"ClicShopping",
+  "vendor":			"modules_boxes",
   "is_free":   "no",
   "website_link_to_sell" : "https://www.clicshopping.org/forum/files/file/54-modules-boxes-login/",
   "version":			1.0,
